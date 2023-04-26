@@ -5,26 +5,16 @@
   <h2 align="center">Sou estudante do Instituto Federal do Amapá 📙💻 <h2/>  
 </div>
 <div>
-    
-    <p align="center">
-      
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://icons8.com/icon/Rc0Xn5AtE8kX/python)" width="45" height="45"/>
-          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  width="45" height="45"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-    
-  </p>  
-           
-          
+   <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" heigth="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" heigth="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" heigth="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"heigth="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  width="45"heigth="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"heigth="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45"heigth="45"/>
+  <p/>        
+     
  </div>
   
  <div>

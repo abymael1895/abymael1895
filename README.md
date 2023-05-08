@@ -33,6 +33,6 @@
 <br>
 </div>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1010&lines=Uma+Vez+Flamengo,+Sempre+Flamengo+!+⚽+🔥+;FLamengo+Sempre+Eu+hei+De+Ser+!;É+Meu+Maior+Prazer+!;Vê-lo+Brilhar+!+🌟;Seja+Na+terra...+🛤;Seja+No+Mar...+🌊;VENCER+!+VENCER+!+VENCER+!;UMA+VEZ+FLAMENGO,+FLAMENGO+ATÉ+MORRER+!+❤+🖤;)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1010&lines=Uma+Vez+Flamengo,+Sempre+Flamengo+!+⚽+🔥+;FLamengo+Sempre+Eu+hei+De+Ser+!+🙏;É+Meu+Maior+Prazer+!+😎;Vê-lo+Brilhar+!+🌟;Seja+Na+terra...+🌴;Seja+No+Mar...+🌊;VENCER+!+VENCER+!+VENCER+!+🏆;UMA+VEZ+FLAMENGO,+FLAMENGO+ATÉ+MORRER+!+❤+🖤;)](https://git.io/typing-svg)   
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer" />     

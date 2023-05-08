@@ -1,9 +1,6 @@
-<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header" />
 
-  <h1 align="center">Olá, meu nome é Abymael Rennare 👻👽<h1/>
-  
-  <h2 align="center">Sou estudante do Instituto Federal do Amapá 📙💻 <h2/>  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Abymael+Rennare;BE+WELCOME+!;OLÁ,+MEU+NOME+É+Abymael+Rennare;SEJA+BEM+VINDO+!+:%29)](https://git.io/typing-svg)
 <div>
    <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" heigth="45"/> 
@@ -13,8 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  width="45"heigth="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"heigth="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45"heigth="45"/>
-  <p/>        
-     
+  <p/>          
  </div>
   
  <div>
@@ -25,10 +21,9 @@
   
    </p>
     </div>
-<div>
-  <p align="center">    
-    <a href="https://github.com/abymael1895">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abymael1895&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abymael1895&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </p>
+<div align="center">
+ 
+<img width"49%" height="195px" src="https://github-readme-stats.vercal.app/api?username=abymael1895&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=1E90FF" alt="Abymael Rennare github stats" />
+<img width"41%" height="195px" src="https://github-readme-stats.vercal.app/api?username=abymael1895&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=1E90FF" />
+                                      
 </div>
